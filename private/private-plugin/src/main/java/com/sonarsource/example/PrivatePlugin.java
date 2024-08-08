@@ -1,3 +1,8 @@
+/*
+ * Copyright (C) ${project.inceptionYear}-2024 SonarSource SA
+ * All rights reserved
+ * mailto:info AT sonarsource DOT com
+ */
 package com.sonarsource.example;
 
 public class PrivatePlugin implements org.sonar.api.Plugin {
